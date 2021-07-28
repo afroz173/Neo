@@ -1,2 +1,3 @@
-# Neo
-Neo MVP
+# neo
+
+A MVP App.
